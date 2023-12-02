@@ -16,7 +16,7 @@ Repaso1ev es una aplicación Android desarrollada en Android Studio que demuestr
 
 1. **Clonar el Repositorio:**
    ```bash
-   git clone https://github.com/tu-usuario/DialogApp.git
+   git clone https://github.com/OxidoDeNiquel/NiO_PMDM_Repaso1ev.git
    ```
 
 2. **Abrir en Android Studio:**
